@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //biblioteca
 int main(){
-	printf("Hello World!");
+	printf("Hello World!"); //mostrar na tela, output
 }
