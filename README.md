@@ -1,5 +1,5 @@
-#Algoritmos e programação
-##Exercicios do beecrowd
+# Algoritmos e programação
+## Exercicios do beecrowd
 ### 1000 Hello World!
 ### 1001 Extremamente Básico
 ### 1002 Área do Círculo
