@@ -8,3 +8,4 @@
 ### 1005 Média 1
 ### 1006 Média 2
 ### 1007 Diferença
+### 1008 Salário
